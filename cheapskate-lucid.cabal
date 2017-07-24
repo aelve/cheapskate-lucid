@@ -2,7 +2,7 @@ name:                cheapskate-lucid
 version:             0.1.0.0
 synopsis:            Use cheapskate with Lucid
 description:
-  Use cheapskate with Lucid
+  A package for rendering Markdown (parsed via cheapskate) to Lucid's HTML.
 homepage:            http://github.com/aelve/cheapskate-lucid
 bug-reports:         http://github.com/aelve/cheapskate-lucid/issues
 license:             BSD3
